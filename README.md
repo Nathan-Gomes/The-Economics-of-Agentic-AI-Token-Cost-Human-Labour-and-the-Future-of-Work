@@ -18,3 +18,9 @@ Agentic AI is likely to be most cost-effective for repetitive, high-volume, low-
 ## Files
 
 - [The Economics of Agentic AI: Token Cost, Human Labour, and the Future of Work](./The%20Economics%20of%20Agentic%20AI_%20Token%20Cost%2C%20Human%20Labour%2C%20and%20the%20Future%20of%20Work.pdf) - full research paper
+
+## Citation
+
+Gomes, N. (2026). *The Economics of Agentic AI: Token Cost, Human Labour, and the Future of Work*. Independent research paper.
+
+Machine-readable BibTeX metadata is available in [CITATION.bib](./CITATION.bib).
