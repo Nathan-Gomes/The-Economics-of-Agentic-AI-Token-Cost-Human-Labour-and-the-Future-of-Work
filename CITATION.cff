@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite the research paper using the preferred citation below."
+title: "Agentic AI Token Economics Research Project"
+authors:
+  - family-names: Gomes
+    given-names: Nathan
+date-released: "2026-05-24"
+url: "https://github.com/Nathan-Gomes/The-Economics-of-Agentic-AI-Token-Cost-Human-Labour-and-the-Future-of-Work"
+repository-code: "https://github.com/Nathan-Gomes/The-Economics-of-Agentic-AI-Token-Cost-Human-Labour-and-the-Future-of-Work"
+abstract: >-
+  A scenario-based comparison of the operating cost of agentic AI and human
+  labour, including token usage, tool calls, retries, supervision,
+  infrastructure, compliance, and error correction.
+keywords:
+  - agentic AI
+  - token economics
+  - human labour
+  - automation
+  - future of work
+preferred-citation:
+  type: report
+  authors:
+    - family-names: Gomes
+      given-names: Nathan
+  title: "The Economics of Agentic AI: Token Cost, Human Labour, and the Future of Work"
+  institution:
+    name: "Independent Research"
+  year: 2026
+  month: 5
+  url: "https://github.com/Nathan-Gomes/The-Economics-of-Agentic-AI-Token-Cost-Human-Labour-and-the-Future-of-Work/blob/main/The%20Economics%20of%20Agentic%20AI_%20Token%20Cost%2C%20Human%20Labour%2C%20and%20the%20Future%20of%20Work.pdf"
